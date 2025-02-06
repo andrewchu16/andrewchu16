@@ -6,11 +6,7 @@ I'm highly experienced in full-stack web development. My main tech stacks are Re
 
 Take a look at some of my *many* hackathon projects [here](https://devpost.com/Previouslynamedjeff) (please just don't read the code 😊).
 
-![](https://raw.githubusercontent.com/andrewchu16/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/andrewchu16/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/andrewchu16/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/andrewchu16/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![]([url](https://github-readme-stats.vercel.app/api?username=andrewchu16))
 
 
 <!--
