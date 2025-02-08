@@ -4,7 +4,7 @@ Hi! I'm a CS student at the University of Waterloo who loves learning and trying
 
 I'm highly experienced in full-stack web development. My main tech stacks are React, Svelte, TailwindCSS, JS/TS, Firebase, Flask, and Express.js.
 
-Take a look at some of my *many* hackathon projects [here](https://devpost.com/Previouslynamedjeff) (please just don't read the code 😊).
+Take a look at some of my *many* hackathon projects [here](https://devpost.com/Previouslynamedjeff).
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewchu16)
 
