@@ -1,25 +1,9 @@
 ## Hi there 👋
 
-Hi! I'm a CS student at the University of Waterloo who loves learning and trying new things. I've explored brainwave processing, computer graphics, and desktop applications, and more.
+Hi! I'm a CS student at the University of Waterloo who loves learning and trying new things. I've explored brainwave processing, computer graphics, RAG pipelines, and more.
 
-I'm highly experienced in full-stack web development. My main tech stacks are React, Svelte, TailwindCSS, JS/TS, Firebase, Flask, and Express.js.
+I'm highly experienced in full-stack web development. My main tech stacks are React, SvelteKit, TailwindCSS, JS/TS, Firebase, Flask, and Express.js.
 
-Take a look at some of my *many* hackathon projects [here](https://devpost.com/Previouslynamedjeff).
+Take a look at some of my 20+ hackathon projects [here](https://devpost.com/Previouslynamedjeff) and [here](https://dorahacks.io/hacker/U_977fd1e781eb14).
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewchu16)
-
-
-<!--
-**andrewchu16/andrewchu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
